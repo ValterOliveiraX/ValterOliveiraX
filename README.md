@@ -15,12 +15,11 @@ Desenvolvimento: Aprendiz em React, Spring Framework, e linguagens C e C#.
 Bacharelado (em andamento): Sistemas de Informação - IFMA (2019 - 2026)
 Curso Técnico Informática(completo): NETCOM - COHAB (2015 - 2017)
 Curso Técnico Eletônica (incompleto): IFMA - Centro Histórico (2016 - 2019)
-##
+ 
 <div>
-  <img heigth=180em src="https://github-readme-stats.vercel.app/api?username=ValterOliveiraX&show_icons=true&theme=dark"/>
-  <img heigth=200em src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValterOliveiraX&layout=compact&theme=dark"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ValterOliveiraX&show_icons=true&theme=dark"/>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValterOliveiraX&layout=compact&theme=dark"/>
 </div>
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,7 +31,6 @@ Curso Técnico Eletônica (incompleto): IFMA - Centro Histórico (2016 - 2019)
 </div>
 
 ##
-
 <div> 
   <a href="https://instagram.com/valteroliveirax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:valter.oliveira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
