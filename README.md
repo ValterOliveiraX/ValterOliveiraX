@@ -1,7 +1,8 @@
 ## Hi there 👋          
 Olá, eu sou o Valter Oliveira! 👋 
 
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="valter-pereira-oliveira-9608a6213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/valter-pereira-oliveira-9608a6213?trk=profile-badge">Valter Pereira Oliveira</a></div>
+              
 
 Sou um estudante de Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia do Maranhão (IFMA). Tenho uma sólida base em hardware e suporte técnico, e agora estou focado em me aprofundar no mundo do desenvolvimento de software, com um grande interesse em backend e frontend.
 Estou sempre em busca de novos desafios e adoro aprender. Meus estudos atuais incluem Spring Framework, React, e as linguagens de programação C e C#.
